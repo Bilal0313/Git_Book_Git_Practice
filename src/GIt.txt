@@ -1,0 +1,13 @@
+
+
+Repository-> it is just a folder that git keeps track of changes
+          Local Re
+
+          Remote Rep
+
+
+
+  Commit -> List of changes you saves into your local git repository
+         The change you made
+         the author of this commit
+
