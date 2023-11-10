@@ -5,3 +5,5 @@ Page 2 of my book
 same work here
 
 Nothing to do
+
+I edit page 2 after I commit it.
